@@ -2,7 +2,7 @@ import pygame
 import numpy as np
 import sys, pygame
 import random
-from try4 import tables
+from tablesChess import tables
 import math
 
 pygame.init()
